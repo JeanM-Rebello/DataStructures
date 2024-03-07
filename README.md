@@ -5,7 +5,7 @@
 
 Essas foram as estruturas trabalhadas:
 
-* [Pilhas]()
-* [Filas]()
-* [Listas Simplesmente Encadeada]()
-* [Listas Duplamente Encadeada]()
+* [Pilhas](https://github.com/JeanM-Rebello/Estruturas-de-Dado/tree/main/Pilha)
+* [Filas](https://github.com/JeanM-Rebello/Estruturas-de-Dado/tree/main/Fila)
+* [Listas Simplesmente Encadeada](https://github.com/JeanM-Rebello/Estruturas-de-Dado/tree/main/Lista%20Simplesmente%20Encadeada)
+* [Listas Duplamente Encadeada](https://github.com/JeanM-Rebello/Estruturas-de-Dado/tree/main/Lista%20Duplamente%20Encadeada)
