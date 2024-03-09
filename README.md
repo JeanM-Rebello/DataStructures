@@ -1,11 +1,11 @@
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-# Estrutura de Dados em C 
+# Data Structure in C
 -----------------------------
-#### Códigos feitos para a matéria de estrutura de dados, visando o conhecimento e aplicação dessas estruturas na linguagem C.
+Codes made for the subject of data structures, aiming at the knowledge and application of these structures in the C language.
 
-Essas foram as estruturas trabalhadas:
+#### These were the structures worked on:
 
-* [Pilhas](https://github.com/JeanM-Rebello/Estruturas-de-Dado/tree/main/Pilha)
-* [Filas](https://github.com/JeanM-Rebello/Estruturas-de-Dado/tree/main/Fila)
-* [Listas Simplesmente Encadeada](https://github.com/JeanM-Rebello/Estruturas-de-Dado/tree/main/Lista%20Simplesmente%20Encadeada)
-* [Listas Duplamente Encadeada](https://github.com/JeanM-Rebello/Estruturas-de-Dado/tree/main/Lista%20Duplamente%20Encadeada)
+* [Stacks](https://github.com/JeanM-Rebello/Estruturas-de-Dado/tree/main/Pilha)
+* [Queues](https://github.com/JeanM-Rebello/Estruturas-de-Dado/tree/main/Fila)
+* [Simply Linked Lists](https://github.com/JeanM-Rebello/Estruturas-de-Dado/tree/main/Lista%20Simplesmente%20Encadeada)
+* [Doubly Linked Lists](https://github.com/JeanM-Rebello/Estruturas-de-Dado/tree/main/Lista%20Duplamente%20Encadeada)
